@@ -1,1 +1,1 @@
-# -AI-Powered-Smart-Plant-Watering-System
+# AI-Powered-Smart-Plant-Watering-System
